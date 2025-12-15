@@ -297,3 +297,12 @@ margin-bottom: 28px;
   text-align: left;
   color: #fff;
 }
+
+/* Footer */
+
+.personal__img--logo {
+    height: 100px ;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
