@@ -146,9 +146,7 @@ margin-bottom: 28px;
     height: 100%;
 }
 
-.about-me__links {
-  
-}
+
 
 .about-me__link {
     font-size: 24px;
@@ -264,7 +262,7 @@ margin-bottom: 28px;
 }
 
 .project__list {
-  padding-top: 40px;
+  padding-top: 5px;
 }
 
 .project__description {
@@ -289,10 +287,11 @@ margin-bottom: 28px;
 .project__description--link {
   font-size: 20px;
   margin-right: 16px;
+  text-decoration: none;
 }
 
 .project__description--title,
-.project__description--sub-title,
+.project__description--sub--title,
 .project__description--para,
 .project__description--link {
   text-align: left;
